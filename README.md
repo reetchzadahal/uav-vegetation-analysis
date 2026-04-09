@@ -49,21 +49,21 @@ Useful for detecting variations in crop nitrogen levels.
 
 ## Results
 
-### Orthomosaic
+### Drone Imagery
 
-![Orthomosaic](outputs/orthomosaic.png)
+![Drone Imagery](drone_image.jpg)
 
 ### NDVI Map
 
-![NDVI](outputs/ndvi.png)
+![NDVI](ndvi.jpg)
 
 ### NDRE Map
 
-![NDRE](outputs/ndre.png)
+![NDRE](ndre.jpg)
 
 ### GNDVI Map
 
-![GNDVI](outputs/gndvi.png)
+![GNDVI](gndvi.jpg)
 
 
 ## Key Insights
